@@ -28,7 +28,7 @@ Recognising his uncertainty and wanting to provide the necessary information to 
 
 Click to interact with the dashboard: [Crime in Springfield](dashboard.html)
 
-![tableau](dashboard.PNG)
+![tableau](dashboard.png)
 
 
 ## Findings and Recommendations
