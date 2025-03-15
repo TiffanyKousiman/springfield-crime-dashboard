@@ -26,7 +26,8 @@ Recognising his uncertainty and wanting to provide the necessary information to 
 
 ## Tableau Dashboard Reveal and Walkthrough ✨
 
-Click to interact with the dashboard: [Crime in Springfield](https://public.tableau.com/views/CrimeinSpringfield/FinalDashboardwithCaptionsandTitles?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Click to interact with the dashboard: [Crime in Springfield](https://public.tableau.com/views/CrimeinSpringfield/FinalDashboardwithCaptionsandTitles?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Dashboard Demo: https://youtu.be/fmvchMcxiYA
 
 ![tableau](dashboard.png)
 
