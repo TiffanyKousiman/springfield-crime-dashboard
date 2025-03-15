@@ -26,14 +26,14 @@ Recognising his uncertainty and wanting to provide the necessary information to 
 
 ## Tableau Dashboard Reveal and Walkthrough ✨
 
-Click to interact with the dashboard: [Crime in Springfield](dashboard.html)
+Click to interact with the dashboard: [Crime in Springfield](https://public.tableau.com/views/CrimeinSpringfield/FinalDashboardwithCaptionsandTitles?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ![tableau](dashboard.png)
 
 
-## Findings and Recommendations
+## Findings and Recommendations 💡
 
-> **Identified Problem**: Prevalence of underreporting and teenage schoolyard assault issue in Springfield. There has been a notable trend in teenage victims not reporting crimes and increased teenage assault committed by schoolmates.
+> 🔎 **Identified Problem**: Prevalence of underreporting and teenage schoolyard assault issue in Springfield. There has been a notable trend in teenage victims not reporting crimes and increased teenage assault committed by schoolmates.
 
 As the Mayor is concerned about how to increase the safety of citizens in Springfield, it would be helpful for her to know crime sources and when victims tend not to report themselves. Looking at the top chart, verbal threat assault is the most dominant crime channel and has the highest unreported rate – an average 77% over the 20 years and 76% over the last year. The large share of unreported verbal violence could indicate that people are not educated enough on verbal assault, not knowing when to see them as crimes and how to address them. The unreported rate is higher than the reported rate, indicating an increasing privacy concern. A solution to this can be using a violence counselling hotline to foster awareness of verbal threats and support citizens at risk of violence. To encourage reporting and instil public trust, it should be conveyed to people that data are securely encrypted, and that data can help make Springfield safer.
 
