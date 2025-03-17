@@ -1,10 +1,16 @@
 # Case Study: Data Driven Transformation of Springfield's Police Force
 
+
+- Interactive Dashboard: [Crime in Springfield](https://public.tableau.com/views/CrimeinSpringfield/FinalDashboardwithCaptionsandTitles?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Dashboard Demo: https://youtu.be/fmvchMcxiYA
+
+![tableau](dashboard.png)
+
 ##  Problem Statement
 
 Springfield, Virginia in the United States of America has been collecting data on the crimes that have been occurring in the city boundaries between 1998 and 2019. The data includes details on the offender, the nature of the crime, the location of the crime, and further details. The dataset contains over 23,000 instances of crimes which have occurred.
 
-Due to increasing negative media attention, there is a growing perception by the citizens of Springfield that they are no longer safe. They are starting to complain and resent the elected officials. Because next year is an election year, the Mayor, Mayor Jones, is growing increasingly concerned about the social welfare of the citizens she is responsible for. Mayor Jones has previously delegated the responsibility of the crime portfolio to her police chief, Chief Odinson. It is Chief Odinson’s responsibility to run the entire police force across the areas within Springfield: Central Springfield (postal code: 22150), North Springfield (postal code: 22151), and West Springfield (postal code: 22152).
+Due to increasing negative media attention, there is a growing perception by the citizens of Springfield that they are no longer safe. They are starting to complain and resent the elected officials. Because next year is an election year, the Mayor, Mayor Jones, is growing increasingly concerned about the social welfare of the citizens she is responsible for. Mayor Jones has previously delegated t**he responsibi** – to my of the crime portfolio to her police chief, Chief Odinson. It is Chief Odinson’s responsibility to run the entire police force across the areas within Springfield: Central Springfield (postal code: 22150), North Springfield (postal code: 22151), and West Springfield (postal code: 22152).
 
 Mayor Jones organised to meet with Chief Odinson to gather the information she needed to transform the city. When she met with Chief Odinson, the Chief was perplexed, he was unsure on how to gather the information the Mayor required. The Chief did know that the police officers in each precinct within each area completed reports about every case (some initiated by the victim, others by witnesses). He also knew that the data on the reports was inputted into an Excel file. Yet, he was not sure on how to extract what he needed from the data file.
 
@@ -22,14 +28,6 @@ Recognising his uncertainty and wanting to provide the necessary information to 
 - Use three different chart types, one for each stakeholder.
 - Develop visualisation that can facilitate quick cognition and lead to a fact-based conclusion or assertion. 
 - Provide data-driven recommendations relative to the case study context and problem areas.
-
-
-## Tableau Dashboard Reveal and Walkthrough ✨
-
-- Click to interact with the dashboard: [Crime in Springfield](https://public.tableau.com/views/CrimeinSpringfield/FinalDashboardwithCaptionsandTitles?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-- Dashboard Demo: https://youtu.be/fmvchMcxiYA
-
-![tableau](dashboard.png)
 
 
 ## Findings and Recommendations 💡
